@@ -1,0 +1,1 @@
+1. Gunakan TypeScript murni tanpa tipe 'any'. 2. Gunakan fungsional komponen React. 3. Styling dengan Tailwind CSS.
