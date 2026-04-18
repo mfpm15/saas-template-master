@@ -1,0 +1,1 @@
+Template SaaS Standar. Tech stack: Next.js App Router, TypeScript, Tailwind CSS, Supabase.
